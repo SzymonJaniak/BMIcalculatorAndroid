@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kalkulator BMI</string>
+    <string name="hint">Wzrost(cm)</string>
+    <string name="hint2">Waga(kg)</string>
+    <string name="button">Oblicz BMI</string>
+
+    <string name="score">Twój wynik BMI</string>
+    <string name="returnto">Powrót</string>
+</resources>
